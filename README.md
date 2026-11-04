@@ -1,5 +1,7 @@
 # VSAS — Virtual Scroll Access System
 
+**[English](README.md) | [简体中文](README.zh-CN.md)**
+
 **Java 21 CLI application · University of Sydney, SOFT2412 · October 2026 · Four-person team project**
 
 VSAS is a terminal-based digital file ("scroll") management application developed through three Scrum sprints. It supports account and role management, file operations, search and previews, history, encryption at rest, and automated quality checks.
